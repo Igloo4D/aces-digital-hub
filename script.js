@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded", function () {
     const searchForm = document.getElementById("search-form");
     const searchInput = document.getElementById("search-input");
@@ -33,3 +34,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
+=======
+AOS.init();
+>>>>>>> bd0521b0f02900d1e8fefbf2fee131b13a4729f3
